@@ -29,7 +29,7 @@ With WiseFin, financial control is just a tap away!
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/PriankaV/WiseFin.git
+git clone https://github.com/FareyaB/Wisefin_App.git
 cd WiseFin 
 
 📝 Future Enhancements
